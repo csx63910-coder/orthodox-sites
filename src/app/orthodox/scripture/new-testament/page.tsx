@@ -7,7 +7,7 @@ import SectionDivider from "../../../../components/SectionDivider";
 const BYZ_JSON_URL =
   "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/grc/Byz/Byz.json";
 
-const KJV_BASE = "kjv";
+const KJV_BASE = "/kjv";
 const KJV_REPO = "https://github.com/farskipper/kjv";
 
 const ntBooksByz = new Set([
@@ -56,7 +56,7 @@ type NtBook = {
 
 export default function OrthodoxNewTestamentPage() {
   const [searchParams] = useSearchParams();
-  const initialVersion = searchParams.get("version") === "kjv" ? "King James Version" : "Septuagint (LXX)";
+  const initialVersion = searchParams.get("version") === "kjv" ? "King James Version" : "Byzantine Greek";
   const [version, setVersion] = useState<"Byzantine Greek" | "King James Version">(initialVersion);
   const [booksByz, setBooksByz] = useState<NtBook[]>([]);
   const [booksKjv, setBooksKjv] = useState<NtBook[]>([]);

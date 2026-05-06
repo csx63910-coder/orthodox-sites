@@ -1,4 +1,4 @@
-import { Bookmark, Search, User, Briefcase, Heart, Globe, Sparkles, Zap, Flame, ShieldAlert, MapPin, ExternalLink } from "lucide-react";
+import { Bookmark, Search, User, Briefcase, Heart, Globe, Sparkles, Flame, ShieldAlert, MapPin, ExternalLink } from "lucide-react";
 import { useState, useMemo } from "react";
 import { Link } from "react-router-dom";
 import Breadcrumbs from "../../../../components/Breadcrumbs";
@@ -57,7 +57,6 @@ export default function PatronSaintsPage() {
         let country = "Universal";
         
         const summary = day.summary.toLowerCase();
-        const nLower = name.toLowerCase();
 
         // Enhanced Location Detection
         if (summary.includes("greece") || summary.includes("thessolonica") || summary.includes("athos") || summary.includes("corinth") || summary.includes("aegina") || summary.includes("patmos") || summary.includes("crete") || summary.includes("epirus") || summary.includes("larissa") || summary.includes("macedonia")) country = "Greece";

@@ -9,17 +9,10 @@ const GREEK_RESOURCES_BASE =
   "https://raw.githubusercontent.com/openscriptures/GreekResources/master/LxxLemmas";
 
 const KJV_REPO = "https://github.com/farskipper/kjv";
-const KJV_BASE = "kjv";
+const KJV_BASE = "/kjv";
 
 type LxxBook = { slug: string; name: string; file: string };
 type KjvBook = { slug: string; name: string; file: string };
-
-const slugify = (name: string) =>
-  name
-    .toLowerCase()
-    .replace(/[^a-z0-9\s-]/g, "")
-    .trim()
-    .replace(/\s+/g, "-");
 
 const lxxBooks: LxxBook[] = [
   { slug: "genesis", name: "Genesis", file: "Gen" },
@@ -58,7 +51,7 @@ const lxxBooks: LxxBook[] = [
 ];
 
 export default function SeptuagintOldTestamentPage() {
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchParams] = useSearchParams();
   const initialVersion = searchParams.get("version") === "kjv" ? "King James Version" : "Septuagint";
   const [version, setVersion] = useState<"Septuagint" | "King James Version">(initialVersion);
   const [selectedSlug, setSelectedSlug] = useState("genesis");

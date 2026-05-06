@@ -11,7 +11,7 @@ import {
   ExternalLink,
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
-import { Link, useLocation, useParams, useSearchParams } from "react-router-dom";
+import { Link, useLocation, useNavigate, useParams, useSearchParams } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import Breadcrumbs from "../components/Breadcrumbs";
 import Card from "../components/Card";
@@ -407,7 +407,7 @@ const BYZ_REPO = "https://github.com/scrollmapper/bible_databases/tree/master/so
 const BYZ_JSON_URL =
   "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/grc/Byz/Byz.json";
 const KJV_REPO = "https://github.com/farskipper/kjv";
-const KJV_BASE = "kjv";
+const KJV_BASE = "/kjv";
 
 type KJVBook = { slug: string; name: string; file: string };
 type KJVChapter = { chapter: number; verses: Array<{ verse: number; text: string }> };
@@ -1286,12 +1286,10 @@ export function GlossaryDetailPage() {
 }
 
 export function SearchPage() {
-  const { t } = useTranslation();
   const [query, setQuery] = useState("");
   const [includeBible, setIncludeBible] = useState(false);
   const [bibleResults, setBibleResults] = useState<Array<{ type: string; title: string; path: string; snippet?: string }>>([]);
   const [isSearchingBible, setIsSearchingBible] = useState(false);
-  const navigate = useNavigate();
 
   const staticResults = useMemo(() => {
     if (query.length < 2) return [];

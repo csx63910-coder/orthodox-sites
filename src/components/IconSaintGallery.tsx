@@ -104,7 +104,7 @@ export default function IconSaintGallery({
               />
               {entry.sampleImages.length > 1 && (
                 <div className="absolute bottom-2 right-2 flex gap-1">
-                  {entry.sampleImages.slice(0, 3).map((img, idx) => (
+                  {entry.sampleImages.slice(0, 3).map((img) => (
                     <button
                       key={img}
                       className="h-2 w-2 rounded-full bg-white/70"
