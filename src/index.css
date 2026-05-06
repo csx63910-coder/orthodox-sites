@@ -1,0 +1,220 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=EB+Garamond:wght@400;500;600;700&family=Uncial+Antiqua&display=swap");
+@import "tailwindcss";
+
+:root {
+  --header-h: 4rem;
+  --sidebar-w: clamp(16.5rem, 26vw, 22rem);
+  --bg-primary: #1a1a2e;
+  --bg-secondary: #16213e;
+  --text-primary: #f5e6ca;
+  --text-secondary: #c9a84c;
+  --sidebar: #0f0f23;
+  --card: #1e1e3a;
+  --border: #c9a84c;
+  --accent: #c9a84c;
+  --accent-secondary: #8b0000;
+  --button-from: #c9a84c;
+  --button-to: #a07b2e;
+  --pattern: radial-gradient(circle at 20% 20%, rgba(201, 168, 76, 0.14), transparent 40%);
+}
+
+@media (max-width: 767px) {
+  :root {
+    --header-h: 3.75rem;
+  }
+}
+
+* {
+  transition: background-color 300ms ease, color 300ms ease, border-color 300ms ease,
+    box-shadow 300ms ease;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: "EB Garamond", serif;
+}
+
+.font-heading {
+  font-family: "Cinzel", serif;
+  letter-spacing: 0.02em;
+}
+
+.font-accent {
+  font-family: "Uncial Antiqua", serif;
+}
+
+.sacred-surface {
+  background: linear-gradient(180deg, var(--bg-primary), var(--bg-secondary));
+  position: relative;
+}
+
+.sacred-surface::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: var(--pattern);
+  opacity: 0.5;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.orthodox-pattern {
+  background-image: linear-gradient(45deg, color-mix(in srgb, var(--accent) 10%, transparent) 25%, transparent 25%),
+    linear-gradient(-45deg, color-mix(in srgb, var(--accent) 10%, transparent) 25%, transparent 25%);
+  background-size: 18px 18px;
+}
+
+.catholic-pattern {
+  background-image: radial-gradient(circle at 100% 50%, color-mix(in srgb, var(--accent) 10%, transparent) 5%, transparent 6%),
+    radial-gradient(circle at 0 50%, color-mix(in srgb, var(--accent) 10%, transparent) 5%, transparent 6%);
+  background-size: 28px 22px;
+}
+
+.drop-cap::first-letter {
+  font-family: "Uncial Antiqua", serif;
+  float: left;
+  font-size: 3rem;
+  line-height: 0.9;
+  margin-right: 0.5rem;
+  color: var(--accent);
+}
+
+.ornamental-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+}
+
+.smoke-background {
+  background: radial-gradient(circle at 15% 20%, color-mix(in srgb, var(--accent) 20%, transparent), transparent 45%),
+    radial-gradient(circle at 80% 10%, color-mix(in srgb, var(--accent-secondary) 20%, transparent), transparent 45%),
+    linear-gradient(135deg, var(--bg-primary), var(--bg-secondary));
+  animation: incense 14s ease-in-out infinite alternate;
+}
+
+@keyframes incense {
+  0% {
+    background-position: 0 0, 0 0, 0 0;
+  }
+  100% {
+    background-position: 60px -40px, -60px 40px, 0 0;
+  }
+}
+
+@keyframes candle-flicker {
+  0%,
+  100% {
+    transform: scale(1) rotate(-1deg);
+    opacity: 0.95;
+  }
+  50% {
+    transform: scale(1.06) rotate(2deg);
+    opacity: 1;
+  }
+}
+
+.xref-link {
+  text-decoration-line: underline;
+  text-underline-offset: 3px;
+}
+
+.xref-saint {
+  color: var(--text-secondary);
+}
+
+.xref-saint:hover::before {
+  content: "🕯 ";
+}
+
+.xref-scripture {
+  color: color-mix(in srgb, var(--accent) 80%, white 20%);
+  text-decoration-style: dotted;
+}
+
+.xref-prayer {
+  color: var(--text-secondary);
+}
+
+.xref-prayer:hover::before {
+  content: "📖 ";
+}
+
+.xref-glossary {
+  text-decoration-style: dashed;
+  color: var(--text-primary);
+}
+
+.xref-feast {
+  color: var(--text-secondary);
+}
+
+.xref-feast:hover::before {
+  content: "📅 ";
+}
+
+.xref-book {
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.xref-popover {
+  animation: fade-in 180ms ease-out;
+}
+
+.xref-arrow {
+  position: absolute;
+  top: -6px;
+  left: 16px;
+  width: 10px;
+  height: 10px;
+  transform: rotate(45deg);
+  background: var(--card);
+  border-left: 1px solid color-mix(in srgb, var(--border) 60%, transparent);
+  border-top: 1px solid color-mix(in srgb, var(--border) 60%, transparent);
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media print {
+  .print-hide,
+  header,
+  footer,
+  aside {
+    display: none !important;
+  }
+
+  body {
+    background: white;
+    color: black;
+    font-family: "EB Garamond", serif;
+  }
+
+  .prayer-print-page,
+  .scripture-print-page,
+  .saint-print-page {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  .scripture-print-page {
+    column-count: 2;
+    column-gap: 1.5rem;
+  }
+}

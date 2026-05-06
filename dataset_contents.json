@@ -1,0 +1,1973 @@
+{
+    "value":  [
+                  {
+                      "name":  "Agios Jacob Tsalikis",
+                      "path":  "Dataset/Agios Jacob Tsalikis",
+                      "sha":  "2f88a815dff250e375c05c73c7b1eead55f5f7de",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Agios%20Jacob%20Tsalikis?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Agios%20Jacob%20Tsalikis",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2f88a815dff250e375c05c73c7b1eead55f5f7de",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Agios%20Jacob%20Tsalikis?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2f88a815dff250e375c05c73c7b1eead55f5f7de",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Agios%20Jacob%20Tsalikis"
+                                 }
+                  },
+                  {
+                      "name":  "Apostle Paul",
+                      "path":  "Dataset/Apostle Paul",
+                      "sha":  "da9110a388e8348d3ccdd2bd8689cfd2cee090e3",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Apostle%20Paul?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Apostle%20Paul",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/da9110a388e8348d3ccdd2bd8689cfd2cee090e3",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Apostle%20Paul?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/da9110a388e8348d3ccdd2bd8689cfd2cee090e3",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Apostle%20Paul"
+                                 }
+                  },
+                  {
+                      "name":  "Apostle Peter and Apostle Paul",
+                      "path":  "Dataset/Apostle Peter and Apostle Paul",
+                      "sha":  "fe73c20a19fa6444cbed8d228be218944636efbc",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Apostle%20Peter%20and%20Apostle%20Paul?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Apostle%20Peter%20and%20Apostle%20Paul",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fe73c20a19fa6444cbed8d228be218944636efbc",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Apostle%20Peter%20and%20Apostle%20Paul?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fe73c20a19fa6444cbed8d228be218944636efbc",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Apostle%20Peter%20and%20Apostle%20Paul"
+                                 }
+                  },
+                  {
+                      "name":  "Apostle Peter",
+                      "path":  "Dataset/Apostle Peter",
+                      "sha":  "be6593cca1d5f1a821e6580b9d40225790e1f430",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Apostle%20Peter?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Apostle%20Peter",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/be6593cca1d5f1a821e6580b9d40225790e1f430",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Apostle%20Peter?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/be6593cca1d5f1a821e6580b9d40225790e1f430",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Apostle%20Peter"
+                                 }
+                  },
+                  {
+                      "name":  "Archangel Michael",
+                      "path":  "Dataset/Archangel Michael",
+                      "sha":  "fa55d4d832e33ea8b95cbcd08fa203c74d2b9362",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Archangel%20Michael?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Archangel%20Michael",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fa55d4d832e33ea8b95cbcd08fa203c74d2b9362",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Archangel%20Michael?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fa55d4d832e33ea8b95cbcd08fa203c74d2b9362",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Archangel%20Michael"
+                                 }
+                  },
+                  {
+                      "name":  "Holy Trinity",
+                      "path":  "Dataset/Holy Trinity",
+                      "sha":  "b939d5fef314f4fa89834711b2abe58d9886392f",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Holy%20Trinity?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Holy%20Trinity",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b939d5fef314f4fa89834711b2abe58d9886392f",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Holy%20Trinity?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b939d5fef314f4fa89834711b2abe58d9886392f",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Holy%20Trinity"
+                                 }
+                  },
+                  {
+                      "name":  "Jesus Christ",
+                      "path":  "Dataset/Jesus Christ",
+                      "sha":  "8ff6be7fa0c4004697ce9096c62a5c2d9ba5f53e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Jesus%20Christ?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Jesus%20Christ",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8ff6be7fa0c4004697ce9096c62a5c2d9ba5f53e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Jesus%20Christ?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8ff6be7fa0c4004697ce9096c62a5c2d9ba5f53e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Jesus%20Christ"
+                                 }
+                  },
+                  {
+                      "name":  "John the Evangelist",
+                      "path":  "Dataset/John the Evangelist",
+                      "sha":  "eee7402323928796f0a04dbc1ddf5abb98570ee0",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/John%20the%20Evangelist?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/John%20the%20Evangelist",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/eee7402323928796f0a04dbc1ddf5abb98570ee0",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/John%20the%20Evangelist?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/eee7402323928796f0a04dbc1ddf5abb98570ee0",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/John%20the%20Evangelist"
+                                 }
+                  },
+                  {
+                      "name":  "Luke the Evangelist",
+                      "path":  "Dataset/Luke the Evangelist",
+                      "sha":  "0c74bc74f423948685777e018c08a795ad3c7770",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Luke%20the%20Evangelist?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Luke%20the%20Evangelist",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0c74bc74f423948685777e018c08a795ad3c7770",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Luke%20the%20Evangelist?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0c74bc74f423948685777e018c08a795ad3c7770",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Luke%20the%20Evangelist"
+                                 }
+                  },
+                  {
+                      "name":  "Mark the Evangelist",
+                      "path":  "Dataset/Mark the Evangelist",
+                      "sha":  "ed3a4d6763f705d2f48247935ce87324954e3764",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Mark%20the%20Evangelist?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Mark%20the%20Evangelist",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/ed3a4d6763f705d2f48247935ce87324954e3764",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Mark%20the%20Evangelist?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/ed3a4d6763f705d2f48247935ce87324954e3764",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Mark%20the%20Evangelist"
+                                 }
+                  },
+                  {
+                      "name":  "Matthew the Evangelist",
+                      "path":  "Dataset/Matthew the Evangelist",
+                      "sha":  "d1333bb8aa397f49f7cf2fcfddaea5c950158c19",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Matthew%20the%20Evangelist?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Matthew%20the%20Evangelist",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d1333bb8aa397f49f7cf2fcfddaea5c950158c19",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Matthew%20the%20Evangelist?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d1333bb8aa397f49f7cf2fcfddaea5c950158c19",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Matthew%20the%20Evangelist"
+                                 }
+                  },
+                  {
+                      "name":  "Mother of God and Jesus Christ",
+                      "path":  "Dataset/Mother of God and Jesus Christ",
+                      "sha":  "6c1888810c5f8eb9d14ddcecd089c7873eed4032",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Mother%20of%20God%20and%20Jesus%20Christ?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Mother%20of%20God%20and%20Jesus%20Christ",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6c1888810c5f8eb9d14ddcecd089c7873eed4032",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Mother%20of%20God%20and%20Jesus%20Christ?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6c1888810c5f8eb9d14ddcecd089c7873eed4032",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Mother%20of%20God%20and%20Jesus%20Christ"
+                                 }
+                  },
+                  {
+                      "name":  "Prophet Ezekiel",
+                      "path":  "Dataset/Prophet Ezekiel",
+                      "sha":  "6c16a588aa1e479b2e7eff04660839c6c6d8a292",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Prophet%20Ezekiel?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Prophet%20Ezekiel",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6c16a588aa1e479b2e7eff04660839c6c6d8a292",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Prophet%20Ezekiel?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6c16a588aa1e479b2e7eff04660839c6c6d8a292",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Prophet%20Ezekiel"
+                                 }
+                  },
+                  {
+                      "name":  "Prophet Ilias",
+                      "path":  "Dataset/Prophet Ilias",
+                      "sha":  "68446db02109fcddc3d9f793be2027d28b8463a9",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Prophet%20Ilias?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Prophet%20Ilias",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/68446db02109fcddc3d9f793be2027d28b8463a9",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Prophet%20Ilias?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/68446db02109fcddc3d9f793be2027d28b8463a9",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Prophet%20Ilias"
+                                 }
+                  },
+                  {
+                      "name":  "Prophet Zechariah",
+                      "path":  "Dataset/Prophet Zechariah",
+                      "sha":  "1333eab20a3b5c0ec144b4bb4bdf1869334aedaa",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Prophet%20Zechariah?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Prophet%20Zechariah",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/1333eab20a3b5c0ec144b4bb4bdf1869334aedaa",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Prophet%20Zechariah?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/1333eab20a3b5c0ec144b4bb4bdf1869334aedaa",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Prophet%20Zechariah"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Alexander",
+                      "path":  "Dataset/Saint Alexander",
+                      "sha":  "ec096e9585dd47db28a05db84a03084bfbb627aa",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Alexander?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Alexander",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/ec096e9585dd47db28a05db84a03084bfbb627aa",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Alexander?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/ec096e9585dd47db28a05db84a03084bfbb627aa",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Alexander"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Ambrose",
+                      "path":  "Dataset/Saint Ambrose",
+                      "sha":  "7b9d9f40f24c81f24570634fabe5e5d2ba031376",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Ambrose?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Ambrose",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/7b9d9f40f24c81f24570634fabe5e5d2ba031376",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Ambrose?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/7b9d9f40f24c81f24570634fabe5e5d2ba031376",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Ambrose"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Amphilogios of Patmos",
+                      "path":  "Dataset/Saint Amphilogios of Patmos",
+                      "sha":  "d38e14cd9b6525dd42c0b10e44597132e655935c",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Amphilogios%20of%20Patmos?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Amphilogios%20of%20Patmos",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d38e14cd9b6525dd42c0b10e44597132e655935c",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Amphilogios%20of%20Patmos?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d38e14cd9b6525dd42c0b10e44597132e655935c",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Amphilogios%20of%20Patmos"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Anastasia the Pharmacist",
+                      "path":  "Dataset/Saint Anastasia the Pharmacist",
+                      "sha":  "75605d550e2d6e76944ba3cc180ab6a6705bea70",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Anastasia%20the%20Pharmacist?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Anastasia%20the%20Pharmacist",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/75605d550e2d6e76944ba3cc180ab6a6705bea70",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Anastasia%20the%20Pharmacist?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/75605d550e2d6e76944ba3cc180ab6a6705bea70",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Anastasia%20the%20Pharmacist"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Andrew",
+                      "path":  "Dataset/Saint Andrew",
+                      "sha":  "9673e2c4cdf46c047bde46d7670b9476ae08b4fd",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Andrew?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Andrew",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9673e2c4cdf46c047bde46d7670b9476ae08b4fd",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Andrew?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9673e2c4cdf46c047bde46d7670b9476ae08b4fd",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Andrew"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Anna",
+                      "path":  "Dataset/Saint Anna",
+                      "sha":  "cfb4cde367b9b1445763cec2c919d2b0a6562eea",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Anna?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Anna",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/cfb4cde367b9b1445763cec2c919d2b0a6562eea",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Anna?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/cfb4cde367b9b1445763cec2c919d2b0a6562eea",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Anna"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Antony",
+                      "path":  "Dataset/Saint Antony",
+                      "sha":  "8a10bcd591061f888e99633349d69de63b9e9b28",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Antony?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Antony",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8a10bcd591061f888e99633349d69de63b9e9b28",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Antony?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8a10bcd591061f888e99633349d69de63b9e9b28",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Antony"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Artemios",
+                      "path":  "Dataset/Saint Artemios",
+                      "sha":  "1cd5e9ce84bc48e78fc8e52a8d5d1f0eb238ede8",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Artemios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Artemios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/1cd5e9ce84bc48e78fc8e52a8d5d1f0eb238ede8",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Artemios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/1cd5e9ce84bc48e78fc8e52a8d5d1f0eb238ede8",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Artemios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Athanasios the Great",
+                      "path":  "Dataset/Saint Athanasios the Great",
+                      "sha":  "19aab56e1e0eba6d56cc729ae2ed9eb9def92a94",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Athanasios%20the%20Great?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Athanasios%20the%20Great",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/19aab56e1e0eba6d56cc729ae2ed9eb9def92a94",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Athanasios%20the%20Great?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/19aab56e1e0eba6d56cc729ae2ed9eb9def92a94",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Athanasios%20the%20Great"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Barbara",
+                      "path":  "Dataset/Saint Barbara",
+                      "sha":  "958829a604b44731b65777b020157752fe560f7b",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Barbara?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Barbara",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/958829a604b44731b65777b020157752fe560f7b",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Barbara?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/958829a604b44731b65777b020157752fe560f7b",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Barbara"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Basil",
+                      "path":  "Dataset/Saint Basil",
+                      "sha":  "ca5c2012e5910729fe51ba2ca167054f7b40b6b5",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Basil?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Basil",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/ca5c2012e5910729fe51ba2ca167054f7b40b6b5",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Basil?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/ca5c2012e5910729fe51ba2ca167054f7b40b6b5",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Basil"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Calliope",
+                      "path":  "Dataset/Saint Calliope",
+                      "sha":  "0b110b75f129a721f22dfa515e94d2d8bec8fcb2",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Calliope?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Calliope",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0b110b75f129a721f22dfa515e94d2d8bec8fcb2",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Calliope?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0b110b75f129a721f22dfa515e94d2d8bec8fcb2",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Calliope"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Catherine",
+                      "path":  "Dataset/Saint Catherine",
+                      "sha":  "5fe226fd7161af3d47319a4217009fb41f4656bd",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Catherine?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Catherine",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/5fe226fd7161af3d47319a4217009fb41f4656bd",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Catherine?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/5fe226fd7161af3d47319a4217009fb41f4656bd",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Catherine"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Charalambos",
+                      "path":  "Dataset/Saint Charalambos",
+                      "sha":  "651a81a77239f871d16729f3d46583e40f234df0",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Charalambos?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Charalambos",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/651a81a77239f871d16729f3d46583e40f234df0",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Charalambos?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/651a81a77239f871d16729f3d46583e40f234df0",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Charalambos"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Chrisi",
+                      "path":  "Dataset/Saint Chrisi",
+                      "sha":  "253f8543c5d515b2b85febf01e1d3d498f912fb8",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Chrisi?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Chrisi",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/253f8543c5d515b2b85febf01e1d3d498f912fb8",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Chrisi?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/253f8543c5d515b2b85febf01e1d3d498f912fb8",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Chrisi"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Christopher",
+                      "path":  "Dataset/Saint Christopher",
+                      "sha":  "b8498e486eba2eba2803c077f1f77592feebc8ea",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Christopher?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Christopher",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b8498e486eba2eba2803c077f1f77592feebc8ea",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Christopher?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b8498e486eba2eba2803c077f1f77592feebc8ea",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Christopher"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Constantine",
+                      "path":  "Dataset/Saint Constantine",
+                      "sha":  "9d9819af06b2f18fe14cd5a9608b38334a4b64c2",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Constantine?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Constantine",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9d9819af06b2f18fe14cd5a9608b38334a4b64c2",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Constantine?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9d9819af06b2f18fe14cd5a9608b38334a4b64c2",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Constantine"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Damianos",
+                      "path":  "Dataset/Saint Damianos",
+                      "sha":  "686a05f14880117d5637219695b443d27fa3c32e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Damianos?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Damianos",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/686a05f14880117d5637219695b443d27fa3c32e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Damianos?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/686a05f14880117d5637219695b443d27fa3c32e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Damianos"
+                                 }
+                  },
+                  {
+                      "name":  "Saint David in Euboea",
+                      "path":  "Dataset/Saint David in Euboea",
+                      "sha":  "fae309d3a506705fb859d3bd357da06d6e22c09b",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20David%20in%20Euboea?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20David%20in%20Euboea",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fae309d3a506705fb859d3bd357da06d6e22c09b",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20David%20in%20Euboea?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fae309d3a506705fb859d3bd357da06d6e22c09b",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20David%20in%20Euboea"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Demetrios",
+                      "path":  "Dataset/Saint Demetrios",
+                      "sha":  "7635b12a6b600c3222a9a964dc25c6c385ce8008",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Demetrios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Demetrios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/7635b12a6b600c3222a9a964dc25c6c385ce8008",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Demetrios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/7635b12a6b600c3222a9a964dc25c6c385ce8008",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Demetrios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Dionysios of Mount Olympus",
+                      "path":  "Dataset/Saint Dionysios of Mount Olympus",
+                      "sha":  "e4e284953f20dbefe96245f335b66b868bae1177",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Dionysios%20of%20Mount%20Olympus?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Dionysios%20of%20Mount%20Olympus",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e4e284953f20dbefe96245f335b66b868bae1177",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Dionysios%20of%20Mount%20Olympus?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e4e284953f20dbefe96245f335b66b868bae1177",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Dionysios%20of%20Mount%20Olympus"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Dionysius, Bishop of Aegina",
+                      "path":  "Dataset/Saint Dionysius, Bishop of Aegina",
+                      "sha":  "20da7825805384c2fa5345b67e1b8c678c27ef02",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Dionysius,%20Bishop%20of%20Aegina?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Dionysius,%20Bishop%20of%20Aegina",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/20da7825805384c2fa5345b67e1b8c678c27ef02",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Dionysius,%20Bishop%20of%20Aegina?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/20da7825805384c2fa5345b67e1b8c678c27ef02",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Dionysius,%20Bishop%20of%20Aegina"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Efimia",
+                      "path":  "Dataset/Saint Efimia",
+                      "sha":  "9f40b9f79468ab2195eddb1ae8e6c91653c222e9",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Efimia?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Efimia",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9f40b9f79468ab2195eddb1ae8e6c91653c222e9",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Efimia?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9f40b9f79468ab2195eddb1ae8e6c91653c222e9",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Efimia"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Efthymios",
+                      "path":  "Dataset/Saint Efthymios",
+                      "sha":  "1ba37f212b9f61aeecb21ae352d492b48a4ff0df",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Efthymios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Efthymios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/1ba37f212b9f61aeecb21ae352d492b48a4ff0df",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Efthymios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/1ba37f212b9f61aeecb21ae352d492b48a4ff0df",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Efthymios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Eleftherios",
+                      "path":  "Dataset/Saint Eleftherios",
+                      "sha":  "746a8070ea5bf3df35821a55de2e8e1d73438676",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Eleftherios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Eleftherios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/746a8070ea5bf3df35821a55de2e8e1d73438676",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Eleftherios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/746a8070ea5bf3df35821a55de2e8e1d73438676",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Eleftherios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Ephraim the Syrian",
+                      "path":  "Dataset/Saint Ephraim the Syrian",
+                      "sha":  "c3b862f9adad3411ca2aa23d7492fa7c6dc35648",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Ephraim%20the%20Syrian?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Ephraim%20the%20Syrian",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/c3b862f9adad3411ca2aa23d7492fa7c6dc35648",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Ephraim%20the%20Syrian?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/c3b862f9adad3411ca2aa23d7492fa7c6dc35648",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Ephraim%20the%20Syrian"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Ephraim",
+                      "path":  "Dataset/Saint Ephraim",
+                      "sha":  "0900e97f9ec2db33f87f50e91dc8ac1631470a0c",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Ephraim?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Ephraim",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0900e97f9ec2db33f87f50e91dc8ac1631470a0c",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Ephraim?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0900e97f9ec2db33f87f50e91dc8ac1631470a0c",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Ephraim"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Eugenia",
+                      "path":  "Dataset/Saint Eugenia",
+                      "sha":  "7910cc3140bc1d3aceba6b956d564af235ddfd08",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Eugenia?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Eugenia",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/7910cc3140bc1d3aceba6b956d564af235ddfd08",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Eugenia?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/7910cc3140bc1d3aceba6b956d564af235ddfd08",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Eugenia"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Eustathios of Plakidas",
+                      "path":  "Dataset/Saint Eustathios of Plakidas",
+                      "sha":  "16e53553952289e951ce7dc680784fd7b411e0cc",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Eustathios%20of%20Plakidas?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Eustathios%20of%20Plakidas",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/16e53553952289e951ce7dc680784fd7b411e0cc",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Eustathios%20of%20Plakidas?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/16e53553952289e951ce7dc680784fd7b411e0cc",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Eustathios%20of%20Plakidas"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Fanourios",
+                      "path":  "Dataset/Saint Fanourios",
+                      "sha":  "0ba2a8269ec86e469671da12e9ac6eaf54761e18",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Fanourios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Fanourios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0ba2a8269ec86e469671da12e9ac6eaf54761e18",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Fanourios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0ba2a8269ec86e469671da12e9ac6eaf54761e18",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Fanourios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint George Karslidis",
+                      "path":  "Dataset/Saint George Karslidis",
+                      "sha":  "28b10f55309aec87a1f38ef93d8f799390ea7331",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20George%20Karslidis?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20George%20Karslidis",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/28b10f55309aec87a1f38ef93d8f799390ea7331",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20George%20Karslidis?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/28b10f55309aec87a1f38ef93d8f799390ea7331",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20George%20Karslidis"
+                                 }
+                  },
+                  {
+                      "name":  "Saint George",
+                      "path":  "Dataset/Saint George",
+                      "sha":  "ceb790c4b6260481addb59a5e7fa3202cb8bdd6c",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20George?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20George",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/ceb790c4b6260481addb59a5e7fa3202cb8bdd6c",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20George?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/ceb790c4b6260481addb59a5e7fa3202cb8bdd6c",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20George"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Gerasimos the Megalochori",
+                      "path":  "Dataset/Saint Gerasimos the Megalochori",
+                      "sha":  "4aa778a4327ef5cd08bb339f6881a30b7c6cfc44",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Gerasimos%20the%20Megalochori?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Gerasimos%20the%20Megalochori",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/4aa778a4327ef5cd08bb339f6881a30b7c6cfc44",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Gerasimos%20the%20Megalochori?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/4aa778a4327ef5cd08bb339f6881a30b7c6cfc44",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Gerasimos%20the%20Megalochori"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Gregory Palamas",
+                      "path":  "Dataset/Saint Gregory Palamas",
+                      "sha":  "5773daaab376a362a6b36bd1fe021f19256a52d1",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Gregory%20Palamas?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Gregory%20Palamas",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/5773daaab376a362a6b36bd1fe021f19256a52d1",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Gregory%20Palamas?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/5773daaab376a362a6b36bd1fe021f19256a52d1",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Gregory%20Palamas"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Gregory the Theologian",
+                      "path":  "Dataset/Saint Gregory the Theologian",
+                      "sha":  "bb76cf1b99b8e3b0bfc59104c900d517a036ce78",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Gregory%20the%20Theologian?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Gregory%20the%20Theologian",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/bb76cf1b99b8e3b0bfc59104c900d517a036ce78",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Gregory%20the%20Theologian?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/bb76cf1b99b8e3b0bfc59104c900d517a036ce78",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Gregory%20the%20Theologian"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Herakleidios",
+                      "path":  "Dataset/Saint Herakleidios",
+                      "sha":  "732d0f7dcd9719d3cd4c642024322e6da1aefdc1",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Herakleidios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Herakleidios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/732d0f7dcd9719d3cd4c642024322e6da1aefdc1",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Herakleidios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/732d0f7dcd9719d3cd4c642024322e6da1aefdc1",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Herakleidios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Irene Chrysovalantous",
+                      "path":  "Dataset/Saint Irene Chrysovalantous",
+                      "sha":  "2ad2769201548202214388f53f92117b66a90e63",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Irene%20Chrysovalantous?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Irene%20Chrysovalantous",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2ad2769201548202214388f53f92117b66a90e63",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Irene%20Chrysovalantous?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2ad2769201548202214388f53f92117b66a90e63",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Irene%20Chrysovalantous"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Irene",
+                      "path":  "Dataset/Saint Irene",
+                      "sha":  "76f24d1b4e0a76e9c966142fe110e988428286f4",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Irene?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Irene",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/76f24d1b4e0a76e9c966142fe110e988428286f4",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Irene?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/76f24d1b4e0a76e9c966142fe110e988428286f4",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Irene"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Jacob the Brother",
+                      "path":  "Dataset/Saint Jacob the Brother",
+                      "sha":  "61fd0b608fa5d013d92f335861c91a4348f007b1",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Jacob%20the%20Brother?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Jacob%20the%20Brother",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/61fd0b608fa5d013d92f335861c91a4348f007b1",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Jacob%20the%20Brother?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/61fd0b608fa5d013d92f335861c91a4348f007b1",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Jacob%20the%20Brother"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Jerome",
+                      "path":  "Dataset/Saint Jerome",
+                      "sha":  "509ff9fd2ae6b10d07bce089fb63fa3b052402cb",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Jerome?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Jerome",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/509ff9fd2ae6b10d07bce089fb63fa3b052402cb",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Jerome?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/509ff9fd2ae6b10d07bce089fb63fa3b052402cb",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Jerome"
+                                 }
+                  },
+                  {
+                      "name":  "Saint John Chrysostom",
+                      "path":  "Dataset/Saint John Chrysostom",
+                      "sha":  "5d09c7ffe07e4ee3eceb4bbbb87fc7a75e336ca8",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20Chrysostom?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20Chrysostom",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/5d09c7ffe07e4ee3eceb4bbbb87fc7a75e336ca8",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20Chrysostom?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/5d09c7ffe07e4ee3eceb4bbbb87fc7a75e336ca8",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20Chrysostom"
+                                 }
+                  },
+                  {
+                      "name":  "Saint John of Damascus",
+                      "path":  "Dataset/Saint John of Damascus",
+                      "sha":  "d90d4f2b5330babe00a6a364d1774a6ab51efd9a",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20of%20Damascus?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20of%20Damascus",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d90d4f2b5330babe00a6a364d1774a6ab51efd9a",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20of%20Damascus?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d90d4f2b5330babe00a6a364d1774a6ab51efd9a",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20of%20Damascus"
+                                 }
+                  },
+                  {
+                      "name":  "Saint John the Baptist",
+                      "path":  "Dataset/Saint John the Baptist",
+                      "sha":  "03d201fad2e20524a6a85983730f81fdecac46d0",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20the%20Baptist?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20the%20Baptist",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/03d201fad2e20524a6a85983730f81fdecac46d0",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20the%20Baptist?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/03d201fad2e20524a6a85983730f81fdecac46d0",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20the%20Baptist"
+                                 }
+                  },
+                  {
+                      "name":  "Saint John the Russian",
+                      "path":  "Dataset/Saint John the Russian",
+                      "sha":  "6c4c6958416abd9ff81078ed1346c38d6ddb65ee",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20the%20Russian?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20the%20Russian",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6c4c6958416abd9ff81078ed1346c38d6ddb65ee",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20the%20Russian?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6c4c6958416abd9ff81078ed1346c38d6ddb65ee",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20the%20Russian"
+                                 }
+                  },
+                  {
+                      "name":  "Saint John the Theologian",
+                      "path":  "Dataset/Saint John the Theologian",
+                      "sha":  "3ec0e509da68d237ab665e0b74d5bdd31823dbb8",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20the%20Theologian?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20the%20Theologian",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/3ec0e509da68d237ab665e0b74d5bdd31823dbb8",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20John%20the%20Theologian?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/3ec0e509da68d237ab665e0b74d5bdd31823dbb8",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20John%20the%20Theologian"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Kirikos",
+                      "path":  "Dataset/Saint Kirikos",
+                      "sha":  "073a3b548d2bc82ca1e3e55894969d33a9f7a781",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Kirikos?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Kirikos",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/073a3b548d2bc82ca1e3e55894969d33a9f7a781",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Kirikos?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/073a3b548d2bc82ca1e3e55894969d33a9f7a781",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Kirikos"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Kosmas the Aetolian",
+                      "path":  "Dataset/Saint Kosmas the Aetolian",
+                      "sha":  "fd3bd945eff9a0aff3a03f20e654ccd462ca129b",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Kosmas%20the%20Aetolian?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Kosmas%20the%20Aetolian",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fd3bd945eff9a0aff3a03f20e654ccd462ca129b",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Kosmas%20the%20Aetolian?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fd3bd945eff9a0aff3a03f20e654ccd462ca129b",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Kosmas%20the%20Aetolian"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Kyprianos",
+                      "path":  "Dataset/Saint Kyprianos",
+                      "sha":  "6882b7d11d13597273ed93b56279825782e57464",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Kyprianos?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Kyprianos",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6882b7d11d13597273ed93b56279825782e57464",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Kyprianos?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6882b7d11d13597273ed93b56279825782e57464",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Kyprianos"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Kyriaki",
+                      "path":  "Dataset/Saint Kyriaki",
+                      "sha":  "39ab8bf7dfa3795eff99fe70206ef15ebd8678cf",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Kyriaki?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Kyriaki",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/39ab8bf7dfa3795eff99fe70206ef15ebd8678cf",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Kyriaki?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/39ab8bf7dfa3795eff99fe70206ef15ebd8678cf",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Kyriaki"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Luke",
+                      "path":  "Dataset/Saint Luke",
+                      "sha":  "24a1e1b821403b75c5baa9a4f46e4e781a469a70",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Luke?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Luke",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/24a1e1b821403b75c5baa9a4f46e4e781a469a70",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Luke?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/24a1e1b821403b75c5baa9a4f46e4e781a469a70",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Luke"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Marina",
+                      "path":  "Dataset/Saint Marina",
+                      "sha":  "efa0f507e719182918dc40582c9d42fb32b9a00b",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Marina?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Marina",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/efa0f507e719182918dc40582c9d42fb32b9a00b",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Marina?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/efa0f507e719182918dc40582c9d42fb32b9a00b",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Marina"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Mary Magdalene",
+                      "path":  "Dataset/Saint Mary Magdalene",
+                      "sha":  "abfc0b33e68370b3ff547983e76b55fc8515397c",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Mary%20Magdalene?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Mary%20Magdalene",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/abfc0b33e68370b3ff547983e76b55fc8515397c",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Mary%20Magdalene?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/abfc0b33e68370b3ff547983e76b55fc8515397c",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Mary%20Magdalene"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Mary of Egypt",
+                      "path":  "Dataset/Saint Mary of Egypt",
+                      "sha":  "46b77975bfd4fa9d9ca5fa46428848419fb04393",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Mary%20of%20Egypt?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Mary%20of%20Egypt",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/46b77975bfd4fa9d9ca5fa46428848419fb04393",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Mary%20of%20Egypt?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/46b77975bfd4fa9d9ca5fa46428848419fb04393",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Mary%20of%20Egypt"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Minas",
+                      "path":  "Dataset/Saint Minas",
+                      "sha":  "0084978fedf5c958ff6300d5a7d5c9a2c347ad5e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Minas?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Minas",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0084978fedf5c958ff6300d5a7d5c9a2c347ad5e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Minas?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0084978fedf5c958ff6300d5a7d5c9a2c347ad5e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Minas"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Nektarios of Aegina",
+                      "path":  "Dataset/Saint Nektarios of Aegina",
+                      "sha":  "f346df2ba246ac56f940d46d8124c8d2a3542be8",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Nektarios%20of%20Aegina?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Nektarios%20of%20Aegina",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/f346df2ba246ac56f940d46d8124c8d2a3542be8",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Nektarios%20of%20Aegina?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/f346df2ba246ac56f940d46d8124c8d2a3542be8",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Nektarios%20of%20Aegina"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Nicolas",
+                      "path":  "Dataset/Saint Nicolas",
+                      "sha":  "1761e3acad38af6e757b2ba47448dae3649d2932",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Nicolas?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Nicolas",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/1761e3acad38af6e757b2ba47448dae3649d2932",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Nicolas?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/1761e3acad38af6e757b2ba47448dae3649d2932",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Nicolas"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Nikephoros the Leper",
+                      "path":  "Dataset/Saint Nikephoros the Leper",
+                      "sha":  "be835646abcce5312275e17895d8f01a239b39d0",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Nikephoros%20the%20Leper?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Nikephoros%20the%20Leper",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/be835646abcce5312275e17895d8f01a239b39d0",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Nikephoros%20the%20Leper?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/be835646abcce5312275e17895d8f01a239b39d0",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Nikephoros%20the%20Leper"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Paisios",
+                      "path":  "Dataset/Saint Paisios",
+                      "sha":  "fe2f9734795803a9d82bd561b4b2a64e04ecbb2d",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Paisios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Paisios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fe2f9734795803a9d82bd561b4b2a64e04ecbb2d",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Paisios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fe2f9734795803a9d82bd561b4b2a64e04ecbb2d",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Paisios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Panteleimon",
+                      "path":  "Dataset/Saint Panteleimon",
+                      "sha":  "823e120dfa296b612b33856f541c2a9ba19a234e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Panteleimon?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Panteleimon",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/823e120dfa296b612b33856f541c2a9ba19a234e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Panteleimon?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/823e120dfa296b612b33856f541c2a9ba19a234e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Panteleimon"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Paraskevi",
+                      "path":  "Dataset/Saint Paraskevi",
+                      "sha":  "235dfcaa78d972b5e7249994a03189a6f7d77306",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Paraskevi?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Paraskevi",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/235dfcaa78d972b5e7249994a03189a6f7d77306",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Paraskevi?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/235dfcaa78d972b5e7249994a03189a6f7d77306",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Paraskevi"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Parthenios",
+                      "path":  "Dataset/Saint Parthenios",
+                      "sha":  "fbbfc5f2e158c27e384154665ca8bf557f2eb267",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Parthenios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Parthenios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fbbfc5f2e158c27e384154665ca8bf557f2eb267",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Parthenios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/fbbfc5f2e158c27e384154665ca8bf557f2eb267",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Parthenios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Philippe",
+                      "path":  "Dataset/Saint Philippe",
+                      "sha":  "e22fc543d6ae2e205858004102ad2a168fbf1a0b",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Philippe?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Philippe",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e22fc543d6ae2e205858004102ad2a168fbf1a0b",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Philippe?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e22fc543d6ae2e205858004102ad2a168fbf1a0b",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Philippe"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Porphyrios",
+                      "path":  "Dataset/Saint Porphyrios",
+                      "sha":  "d9cfc355a2fbd39554ce175eb50a64582b0f577a",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Porphyrios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Porphyrios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d9cfc355a2fbd39554ce175eb50a64582b0f577a",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Porphyrios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d9cfc355a2fbd39554ce175eb50a64582b0f577a",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Porphyrios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Savvas",
+                      "path":  "Dataset/Saint Savvas",
+                      "sha":  "6a9ca175f06ac82e9207cc8c0f0408488a252c8c",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Savvas?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Savvas",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6a9ca175f06ac82e9207cc8c0f0408488a252c8c",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Savvas?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6a9ca175f06ac82e9207cc8c0f0408488a252c8c",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Savvas"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Seraphim of Sarov",
+                      "path":  "Dataset/Saint Seraphim of Sarov",
+                      "sha":  "2899e7e2b5e207368fd8f39ef9aa5fd4ae4d0b9e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Seraphim%20of%20Sarov?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Seraphim%20of%20Sarov",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2899e7e2b5e207368fd8f39ef9aa5fd4ae4d0b9e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Seraphim%20of%20Sarov?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2899e7e2b5e207368fd8f39ef9aa5fd4ae4d0b9e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Seraphim%20of%20Sarov"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Simeon the Stylite",
+                      "path":  "Dataset/Saint Simeon the Stylite",
+                      "sha":  "0a358c9192a59cf39ea281b1b6fafb8c3648a1cd",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Simeon%20the%20Stylite?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Simeon%20the%20Stylite",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0a358c9192a59cf39ea281b1b6fafb8c3648a1cd",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Simeon%20the%20Stylite?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0a358c9192a59cf39ea281b1b6fafb8c3648a1cd",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Simeon%20the%20Stylite"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Simon the Athonite",
+                      "path":  "Dataset/Saint Simon the Athonite",
+                      "sha":  "b55108a9604a51e60f0710492e1f11fbc242c9b7",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Simon%20the%20Athonite?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Simon%20the%20Athonite",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b55108a9604a51e60f0710492e1f11fbc242c9b7",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Simon%20the%20Athonite?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b55108a9604a51e60f0710492e1f11fbc242c9b7",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Simon%20the%20Athonite"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Solomon",
+                      "path":  "Dataset/Saint Solomon",
+                      "sha":  "8bee5ed693b697e1e753da169139f91ade8f6ef2",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Solomon?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Solomon",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8bee5ed693b697e1e753da169139f91ade8f6ef2",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Solomon?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8bee5ed693b697e1e753da169139f91ade8f6ef2",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Solomon"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Sophia, Faith, Love and Hope",
+                      "path":  "Dataset/Saint Sophia, Faith, Love and Hope",
+                      "sha":  "44c9c6535196ab7fe13f9da8e432d95a1f68a3e0",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Sophia,%20Faith,%20Love%20and%20Hope?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Sophia,%20Faith,%20Love%20and%20Hope",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/44c9c6535196ab7fe13f9da8e432d95a1f68a3e0",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Sophia,%20Faith,%20Love%20and%20Hope?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/44c9c6535196ab7fe13f9da8e432d95a1f68a3e0",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Sophia,%20Faith,%20Love%20and%20Hope"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Sozon",
+                      "path":  "Dataset/Saint Sozon",
+                      "sha":  "d03d28950afdabf5f9374b3e9f4d819935900ac0",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Sozon?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Sozon",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d03d28950afdabf5f9374b3e9f4d819935900ac0",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Sozon?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d03d28950afdabf5f9374b3e9f4d819935900ac0",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Sozon"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Spyridon",
+                      "path":  "Dataset/Saint Spyridon",
+                      "sha":  "48067eda4cd05b829a4fe4ab8c2b11c6afb4e6c2",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Spyridon?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Spyridon",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/48067eda4cd05b829a4fe4ab8c2b11c6afb4e6c2",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Spyridon?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/48067eda4cd05b829a4fe4ab8c2b11c6afb4e6c2",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Spyridon"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Stephen",
+                      "path":  "Dataset/Saint Stephen",
+                      "sha":  "3e177c9053daa376cd6a2b22702f8d882a09d555",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Stephen?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Stephen",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/3e177c9053daa376cd6a2b22702f8d882a09d555",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Stephen?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/3e177c9053daa376cd6a2b22702f8d882a09d555",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Stephen"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Stylianos of Paphlagon",
+                      "path":  "Dataset/Saint Stylianos of Paphlagon",
+                      "sha":  "5fa373cc90934ef82e565c138c8ee1864d22beba",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Stylianos%20of%20Paphlagon?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Stylianos%20of%20Paphlagon",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/5fa373cc90934ef82e565c138c8ee1864d22beba",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Stylianos%20of%20Paphlagon?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/5fa373cc90934ef82e565c138c8ee1864d22beba",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Stylianos%20of%20Paphlagon"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Theodore of Tyre",
+                      "path":  "Dataset/Saint Theodore of Tyre",
+                      "sha":  "4a1ee287f5a32b669a567197084b67fefed66553",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Theodore%20of%20Tyre?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Theodore%20of%20Tyre",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/4a1ee287f5a32b669a567197084b67fefed66553",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Theodore%20of%20Tyre?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/4a1ee287f5a32b669a567197084b67fefed66553",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Theodore%20of%20Tyre"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Theodore the Neomartyr",
+                      "path":  "Dataset/Saint Theodore the Neomartyr",
+                      "sha":  "d7afd2cfd8a2faf871cd471f7080dee1ecb381a9",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Theodore%20the%20Neomartyr?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Theodore%20the%20Neomartyr",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d7afd2cfd8a2faf871cd471f7080dee1ecb381a9",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Theodore%20the%20Neomartyr?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/d7afd2cfd8a2faf871cd471f7080dee1ecb381a9",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Theodore%20the%20Neomartyr"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Theodosios",
+                      "path":  "Dataset/Saint Theodosios",
+                      "sha":  "f8c4eab547bc9def8f096f3625d5976e218e4ba3",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Theodosios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Theodosios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/f8c4eab547bc9def8f096f3625d5976e218e4ba3",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Theodosios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/f8c4eab547bc9def8f096f3625d5976e218e4ba3",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Theodosios"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Theonas Bishop of Thessaloniki",
+                      "path":  "Dataset/Saint Theonas Bishop of Thessaloniki",
+                      "sha":  "a749028d3f9a209d193b4567e33a76898b9bcce1",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Theonas%20Bishop%20of%20Thessaloniki?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Theonas%20Bishop%20of%20Thessaloniki",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/a749028d3f9a209d193b4567e33a76898b9bcce1",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Theonas%20Bishop%20of%20Thessaloniki?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/a749028d3f9a209d193b4567e33a76898b9bcce1",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Theonas%20Bishop%20of%20Thessaloniki"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Therapon Bishop of Cyprus",
+                      "path":  "Dataset/Saint Therapon Bishop of Cyprus",
+                      "sha":  "0122dd22269d6c705a794749af51e19b87e2e094",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Therapon%20Bishop%20of%20Cyprus?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Therapon%20Bishop%20of%20Cyprus",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0122dd22269d6c705a794749af51e19b87e2e094",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Therapon%20Bishop%20of%20Cyprus?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/0122dd22269d6c705a794749af51e19b87e2e094",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Therapon%20Bishop%20of%20Cyprus"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Triantafyllos",
+                      "path":  "Dataset/Saint Triantafyllos",
+                      "sha":  "e6ca79c9733ea0b9b8e350a0aae2e64efb2bb2ef",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Triantafyllos?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Triantafyllos",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e6ca79c9733ea0b9b8e350a0aae2e64efb2bb2ef",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Triantafyllos?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e6ca79c9733ea0b9b8e350a0aae2e64efb2bb2ef",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Triantafyllos"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Tryfon",
+                      "path":  "Dataset/Saint Tryfon",
+                      "sha":  "8975f63e5eb0b2875f3736dde40e4ec50422f1d8",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Tryfon?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Tryfon",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8975f63e5eb0b2875f3736dde40e4ec50422f1d8",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Tryfon?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8975f63e5eb0b2875f3736dde40e4ec50422f1d8",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Tryfon"
+                                 }
+                  },
+                  {
+                      "name":  "Saint Vlasios",
+                      "path":  "Dataset/Saint Vlasios",
+                      "sha":  "91ffc99cff068d1a6010515fa4bbf67c8ec35978",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Vlasios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Vlasios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/91ffc99cff068d1a6010515fa4bbf67c8ec35978",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saint%20Vlasios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/91ffc99cff068d1a6010515fa4bbf67c8ec35978",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saint%20Vlasios"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Anargyroi Kosmas and Damianos",
+                      "path":  "Dataset/Saints Anargyroi Kosmas and Damianos",
+                      "sha":  "50dd42d194f18fd17440830f9a0089a7153b863c",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Anargyroi%20Kosmas%20and%20Damianos?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Anargyroi%20Kosmas%20and%20Damianos",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/50dd42d194f18fd17440830f9a0089a7153b863c",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Anargyroi%20Kosmas%20and%20Damianos?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/50dd42d194f18fd17440830f9a0089a7153b863c",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Anargyroi%20Kosmas%20and%20Damianos"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Aquila and Priscilla",
+                      "path":  "Dataset/Saints Aquila and Priscilla",
+                      "sha":  "9294acd931d3e48535789fc9ff1520d9e80c90d3",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Aquila%20and%20Priscilla?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Aquila%20and%20Priscilla",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9294acd931d3e48535789fc9ff1520d9e80c90d3",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Aquila%20and%20Priscilla?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9294acd931d3e48535789fc9ff1520d9e80c90d3",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Aquila%20and%20Priscilla"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Arsenios and Paisios",
+                      "path":  "Dataset/Saints Arsenios and Paisios",
+                      "sha":  "e62aeb258a2597f78b23b253568c8edb76c43329",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Arsenios%20and%20Paisios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Arsenios%20and%20Paisios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e62aeb258a2597f78b23b253568c8edb76c43329",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Arsenios%20and%20Paisios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e62aeb258a2597f78b23b253568c8edb76c43329",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Arsenios%20and%20Paisios"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Arsenios, Paisios and Porphyrios",
+                      "path":  "Dataset/Saints Arsenios, Paisios and Porphyrios",
+                      "sha":  "2fca8f0a06a87902f51e90267f049e1c085fca11",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Arsenios,%20Paisios%20and%20Porphyrios?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Arsenios,%20Paisios%20and%20Porphyrios",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2fca8f0a06a87902f51e90267f049e1c085fca11",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Arsenios,%20Paisios%20and%20Porphyrios?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2fca8f0a06a87902f51e90267f049e1c085fca11",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Arsenios,%20Paisios%20and%20Porphyrios"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Athanasios and Cyril",
+                      "path":  "Dataset/Saints Athanasios and Cyril",
+                      "sha":  "2e3ad82fc5f30956f093079e9e8a9b1119820a20",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Athanasios%20and%20Cyril?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Athanasios%20and%20Cyril",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2e3ad82fc5f30956f093079e9e8a9b1119820a20",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Athanasios%20and%20Cyril?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/2e3ad82fc5f30956f093079e9e8a9b1119820a20",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Athanasios%20and%20Cyril"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Constantine and Helen",
+                      "path":  "Dataset/Saints Constantine and Helen",
+                      "sha":  "cceb2eb9df6de8650ad3c609d1bceefda89d8281",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Constantine%20and%20Helen?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Constantine%20and%20Helen",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/cceb2eb9df6de8650ad3c609d1bceefda89d8281",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Constantine%20and%20Helen?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/cceb2eb9df6de8650ad3c609d1bceefda89d8281",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Constantine%20and%20Helen"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Cyprian and Justine",
+                      "path":  "Dataset/Saints Cyprian and Justine",
+                      "sha":  "8506a794a4a5913a65d94d1b0da02db8f3ab7bae",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Cyprian%20and%20Justine?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Cyprian%20and%20Justine",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8506a794a4a5913a65d94d1b0da02db8f3ab7bae",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Cyprian%20and%20Justine?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8506a794a4a5913a65d94d1b0da02db8f3ab7bae",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Cyprian%20and%20Justine"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Joachim and Anna",
+                      "path":  "Dataset/Saints Joachim and Anna",
+                      "sha":  "53f403a93be1459bc96fcfe058ca27a0bbe8597e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Joachim%20and%20Anna?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Joachim%20and%20Anna",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/53f403a93be1459bc96fcfe058ca27a0bbe8597e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Joachim%20and%20Anna?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/53f403a93be1459bc96fcfe058ca27a0bbe8597e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Joachim%20and%20Anna"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Nicholas, Panteleimon and Tryfon",
+                      "path":  "Dataset/Saints Nicholas, Panteleimon and Tryfon",
+                      "sha":  "531f8b9f232b06b5ce98d900bd738b1e4ffaa84e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Nicholas,%20Panteleimon%20and%20Tryfon?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Nicholas,%20Panteleimon%20and%20Tryfon",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/531f8b9f232b06b5ce98d900bd738b1e4ffaa84e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Nicholas,%20Panteleimon%20and%20Tryfon?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/531f8b9f232b06b5ce98d900bd738b1e4ffaa84e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Nicholas,%20Panteleimon%20and%20Tryfon"
+                                 }
+                  },
+                  {
+                      "name":  "Saints Nicholas, Raphael and Irene",
+                      "path":  "Dataset/Saints Nicholas, Raphael and Irene",
+                      "sha":  "29e350aa19ccb7829958928b940f243bbd1d4465",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Nicholas,%20Raphael%20and%20Irene?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Nicholas,%20Raphael%20and%20Irene",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/29e350aa19ccb7829958928b940f243bbd1d4465",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Saints%20Nicholas,%20Raphael%20and%20Irene?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/29e350aa19ccb7829958928b940f243bbd1d4465",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Saints%20Nicholas,%20Raphael%20and%20Irene"
+                                 }
+                  },
+                  {
+                      "name":  "The Annunciation of the Virgin Mary",
+                      "path":  "Dataset/The Annunciation of the Virgin Mary",
+                      "sha":  "b2be75b132be445ff2f21367e1387268eb47b444",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Annunciation%20of%20the%20Virgin%20Mary?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Annunciation%20of%20the%20Virgin%20Mary",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b2be75b132be445ff2f21367e1387268eb47b444",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Annunciation%20of%20the%20Virgin%20Mary?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b2be75b132be445ff2f21367e1387268eb47b444",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Annunciation%20of%20the%20Virgin%20Mary"
+                                 }
+                  },
+                  {
+                      "name":  "The Archangels Michael and Gabriel",
+                      "path":  "Dataset/The Archangels Michael and Gabriel",
+                      "sha":  "29a71d841fddca13be83dbf8791856d72917e4a0",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Archangels%20Michael%20and%20Gabriel?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Archangels%20Michael%20and%20Gabriel",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/29a71d841fddca13be83dbf8791856d72917e4a0",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Archangels%20Michael%20and%20Gabriel?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/29a71d841fddca13be83dbf8791856d72917e4a0",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Archangels%20Michael%20and%20Gabriel"
+                                 }
+                  },
+                  {
+                      "name":  "The Ascension of Christ",
+                      "path":  "Dataset/The Ascension of Christ",
+                      "sha":  "15a4eee969f6131906985be53f4c11c0848919aa",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Ascension%20of%20Christ?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Ascension%20of%20Christ",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/15a4eee969f6131906985be53f4c11c0848919aa",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Ascension%20of%20Christ?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/15a4eee969f6131906985be53f4c11c0848919aa",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Ascension%20of%20Christ"
+                                 }
+                  },
+                  {
+                      "name":  "The Assumption of the Virgin Mary",
+                      "path":  "Dataset/The Assumption of the Virgin Mary",
+                      "sha":  "9ea7423d10ec4b6ed1022cc7d9f82ec82cb8b0f9",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Assumption%20of%20the%20Virgin%20Mary?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Assumption%20of%20the%20Virgin%20Mary",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9ea7423d10ec4b6ed1022cc7d9f82ec82cb8b0f9",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Assumption%20of%20the%20Virgin%20Mary?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9ea7423d10ec4b6ed1022cc7d9f82ec82cb8b0f9",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Assumption%20of%20the%20Virgin%20Mary"
+                                 }
+                  },
+                  {
+                      "name":  "The Baptism of Christ",
+                      "path":  "Dataset/The Baptism of Christ",
+                      "sha":  "c961c10496e06e055fbd10590d56785f9908ed3e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Baptism%20of%20Christ?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Baptism%20of%20Christ",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/c961c10496e06e055fbd10590d56785f9908ed3e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Baptism%20of%20Christ?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/c961c10496e06e055fbd10590d56785f9908ed3e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Baptism%20of%20Christ"
+                                 }
+                  },
+                  {
+                      "name":  "The Crucifixion of Christ",
+                      "path":  "Dataset/The Crucifixion of Christ",
+                      "sha":  "caa7a0343331ce0b87e308a9daaecd406a648f02",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Crucifixion%20of%20Christ?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Crucifixion%20of%20Christ",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/caa7a0343331ce0b87e308a9daaecd406a648f02",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Crucifixion%20of%20Christ?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/caa7a0343331ce0b87e308a9daaecd406a648f02",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Crucifixion%20of%20Christ"
+                                 }
+                  },
+                  {
+                      "name":  "The Exaltation of the Holy Cross",
+                      "path":  "Dataset/The Exaltation of the Holy Cross",
+                      "sha":  "46312ec6822d5c6ccbb446aabb7150c94d8c501e",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Exaltation%20of%20the%20Holy%20Cross?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Exaltation%20of%20the%20Holy%20Cross",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/46312ec6822d5c6ccbb446aabb7150c94d8c501e",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Exaltation%20of%20the%20Holy%20Cross?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/46312ec6822d5c6ccbb446aabb7150c94d8c501e",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Exaltation%20of%20the%20Holy%20Cross"
+                                 }
+                  },
+                  {
+                      "name":  "The Holy Martyrs of Lesvos",
+                      "path":  "Dataset/The Holy Martyrs of Lesvos",
+                      "sha":  "09765bb6b36387d7d69df3ad91027e8ee52fb657",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Holy%20Martyrs%20of%20Lesvos?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Holy%20Martyrs%20of%20Lesvos",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/09765bb6b36387d7d69df3ad91027e8ee52fb657",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Holy%20Martyrs%20of%20Lesvos?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/09765bb6b36387d7d69df3ad91027e8ee52fb657",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Holy%20Martyrs%20of%20Lesvos"
+                                 }
+                  },
+                  {
+                      "name":  "The Holy Pentecost",
+                      "path":  "Dataset/The Holy Pentecost",
+                      "sha":  "e383e4a6d63c92d18096bbcbfea9a34300ef9145",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Holy%20Pentecost?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Holy%20Pentecost",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e383e4a6d63c92d18096bbcbfea9a34300ef9145",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Holy%20Pentecost?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/e383e4a6d63c92d18096bbcbfea9a34300ef9145",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Holy%20Pentecost"
+                                 }
+                  },
+                  {
+                      "name":  "The Nativity of Christ",
+                      "path":  "Dataset/The Nativity of Christ",
+                      "sha":  "aeff4920230f801efa774471412e237e56cfdd53",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Nativity%20of%20Christ?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Nativity%20of%20Christ",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/aeff4920230f801efa774471412e237e56cfdd53",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Nativity%20of%20Christ?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/aeff4920230f801efa774471412e237e56cfdd53",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Nativity%20of%20Christ"
+                                 }
+                  },
+                  {
+                      "name":  "The Nativity of the Virgin Mary",
+                      "path":  "Dataset/The Nativity of the Virgin Mary",
+                      "sha":  "c87081f7e1e6b382bf4caa50ec9a9dda590fd885",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Nativity%20of%20the%20Virgin%20Mary?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Nativity%20of%20the%20Virgin%20Mary",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/c87081f7e1e6b382bf4caa50ec9a9dda590fd885",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Nativity%20of%20the%20Virgin%20Mary?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/c87081f7e1e6b382bf4caa50ec9a9dda590fd885",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Nativity%20of%20the%20Virgin%20Mary"
+                                 }
+                  },
+                  {
+                      "name":  "The Resurrection of Christ",
+                      "path":  "Dataset/The Resurrection of Christ",
+                      "sha":  "b938b2a4aaf0a58fb9d23962c0369e3cd95a2bcd",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Resurrection%20of%20Christ?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Resurrection%20of%20Christ",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b938b2a4aaf0a58fb9d23962c0369e3cd95a2bcd",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Resurrection%20of%20Christ?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/b938b2a4aaf0a58fb9d23962c0369e3cd95a2bcd",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Resurrection%20of%20Christ"
+                                 }
+                  },
+                  {
+                      "name":  "The Savior\u0027s Transfiguration",
+                      "path":  "Dataset/The Savior\u0027s Transfiguration",
+                      "sha":  "02675c2031477e3a661e38b2347cff9253ac7fa9",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Savior\u0027s%20Transfiguration?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Savior\u0027s%20Transfiguration",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/02675c2031477e3a661e38b2347cff9253ac7fa9",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Savior\u0027s%20Transfiguration?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/02675c2031477e3a661e38b2347cff9253ac7fa9",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Savior\u0027s%20Transfiguration"
+                                 }
+                  },
+                  {
+                      "name":  "The Secret Supper",
+                      "path":  "Dataset/The Secret Supper",
+                      "sha":  "8b88231d0283f86c20eecd169caafbc09969ad37",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Secret%20Supper?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Secret%20Supper",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8b88231d0283f86c20eecd169caafbc09969ad37",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Secret%20Supper?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/8b88231d0283f86c20eecd169caafbc09969ad37",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Secret%20Supper"
+                                 }
+                  },
+                  {
+                      "name":  "The Three Holy Hierarchs",
+                      "path":  "Dataset/The Three Holy Hierarchs",
+                      "sha":  "f17e09ab7a3a4dcd1571b3582fb7f7f22171d87b",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Three%20Holy%20Hierarchs?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Three%20Holy%20Hierarchs",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/f17e09ab7a3a4dcd1571b3582fb7f7f22171d87b",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Three%20Holy%20Hierarchs?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/f17e09ab7a3a4dcd1571b3582fb7f7f22171d87b",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Three%20Holy%20Hierarchs"
+                                 }
+                  },
+                  {
+                      "name":  "The Vaiophoros",
+                      "path":  "Dataset/The Vaiophoros",
+                      "sha":  "9baa0f11720e2d0f5c5cbbbb3647a83dcca0baec",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Vaiophoros?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Vaiophoros",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9baa0f11720e2d0f5c5cbbbb3647a83dcca0baec",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/The%20Vaiophoros?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/9baa0f11720e2d0f5c5cbbbb3647a83dcca0baec",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/The%20Vaiophoros"
+                                 }
+                  },
+                  {
+                      "name":  "Zoodochos Pigi",
+                      "path":  "Dataset/Zoodochos Pigi",
+                      "sha":  "6f40bc3bfb28f6c88a12975dfa58057ff55f9305",
+                      "size":  0,
+                      "url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Zoodochos%20Pigi?ref=main",
+                      "html_url":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Zoodochos%20Pigi",
+                      "git_url":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6f40bc3bfb28f6c88a12975dfa58057ff55f9305",
+                      "download_url":  null,
+                      "type":  "dir",
+                      "_links":  {
+                                     "self":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/contents/Dataset/Zoodochos%20Pigi?ref=main",
+                                     "git":  "https://api.github.com/repos/MachineLearningVisionRG/ICONSAINT/git/trees/6f40bc3bfb28f6c88a12975dfa58057ff55f9305",
+                                     "html":  "https://github.com/MachineLearningVisionRG/ICONSAINT/tree/main/Dataset/Zoodochos%20Pigi"
+                                 }
+                  }
+              ],
+    "Count":  123
+}
