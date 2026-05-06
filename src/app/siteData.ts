@@ -29,7 +29,7 @@ export type PageContent = {
   paragraphs: string[];
   quote?: string;
   quoteSource?: string;
-  items: { title: string; description: string }[];
+  items: { title: string; description: string; path?: string }[];
 };
 
 export const orthodoxSections: SidebarSection[] = [

@@ -1,4 +1,4 @@
-import { HashRouter, Navigate, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import { ThemeProvider } from "./context/ThemeContext";
 import BackToTop from "./components/BackToTop";
 import CandlePage from "./app/candle/page";
@@ -96,7 +96,7 @@ import PatronSaintsPage from "./app/orthodox/saints/tabs/PatronSaintsPage";
 export default function App() {
   return (
     <ThemeProvider>
-      <HashRouter>
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route
@@ -213,7 +213,7 @@ export default function App() {
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
         <BackToTop />
-      </HashRouter>
+      </BrowserRouter>
     </ThemeProvider>
   );
 }

@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import Breadcrumbs from "../../components/Breadcrumbs";
 import Card from "../../components/Card";
-import SectionDivider from "../../components/SectionDivider";
 import { orthodoxSections } from "../siteData";
 
 export default function OrthodoxDashboardPage() {
@@ -34,7 +33,6 @@ export default function OrthodoxDashboardPage() {
               {section.subItems.map((item) => {
                 // Logic to determine the correct sub-path
                 let itemPath = section.path;
-                const slug = item.toLowerCase().replace(/ & /g, "-").replace(/\s+/g, "-").replace(/[()]/g, "").replace(/:/g, "");
                 
                 // Special mapping for specific items to ensure correct routing
                 if (section.title === "Holy Scripture") {

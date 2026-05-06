@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import {
   BookCopy,
   Bookmark,
@@ -11,8 +10,8 @@ import {
   Library,
   ExternalLink,
 } from "lucide-react";
-import { useEffect, useMemo, useState, useCallback } from "react";
-import { Link, useLocation, useNavigate, useParams, useSearchParams } from "react-router-dom";
+import { useEffect, useMemo, useState } from "react";
+import { Link, useLocation, useParams, useSearchParams } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import Breadcrumbs from "../components/Breadcrumbs";
 import Card from "../components/Card";
@@ -104,7 +103,7 @@ export function SaintDetailPage({ tradition }: { tradition: "orthodox" | "cathol
 
   const iconEntry = findIconSaintBySlug(saint.slug);
   const iconImage = iconEntry
-    ? iconSaintUrl(iconEntry.folder, 1, iconEntry.sampleImages[0])
+    ? iconSaintUrl(iconEntry.folder, iconEntry.sampleImages[0])
     : null;
 
   return (

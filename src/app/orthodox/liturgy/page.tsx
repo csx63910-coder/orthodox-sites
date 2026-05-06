@@ -3,7 +3,7 @@ import Breadcrumbs from "../../../components/Breadcrumbs";
 import Card from "../../../components/Card";
 import SectionDivider from "../../../components/SectionDivider";
 import { orthodoxContent } from "../../siteData";
-import { Church, ScrollText, History, Landmark, Sparkles, Languages } from "lucide-react";
+import { Church, History, Landmark, Sparkles, Languages } from "lucide-react";
 
 export default function OrthodoxLiturgyPage() {
   const content = orthodoxContent.liturgy;
@@ -31,7 +31,7 @@ export default function OrthodoxLiturgyPage() {
           {content.items.map((item, idx) => {
             const Icon = icons[idx % icons.length];
             return (
-              <Link key={item.path} to={item.path} className="group">
+              <Link key={item.path || idx} to={item.path || "#"} className="group">
                 <Card className="h-full transition-all duration-300 hover:border-[var(--accent)] hover:shadow-lg group-hover:-translate-y-1">
                   <div className="flex flex-col h-full">
                     <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-[var(--accent)]/10 text-[var(--accent)]">
